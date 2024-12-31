@@ -1,1 +1,1 @@
-# Java-gmtr00-1
+Dummy template
